@@ -1,0 +1,74 @@
+{
+    "__class__": "Lista",
+    "Personal": [
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "4124124",
+                "apellido": "Mallea",
+                "nombre": "Agustin",
+                "sueldobasico": 70000.0,
+                "antiguedad": 28,
+                "categoria": "IV",
+                "importeextra": 15000.0,
+                "area": "Informatica",
+                "tipo": "IA",
+                "carrera": "LCC",
+                "cargo": "Exclusivo",
+                "catedra": "Algortimos"
+            }
+        },
+        {
+            "__class__": "PersonaldeApoyo",
+            "__atributos__": {
+                "cuil": "1313131313",
+                "apellido": "Paez",
+                "nombre": "Julian",
+                "sueldobasico": 30000.0,
+                "antiguedad": 23,
+                "categoria": 20
+            }
+        },
+        {
+            "__class__": "PersonaldeApoyo",
+            "__atributos__": {
+                "cuil": "2525252525",
+                "apellido": "Perez",
+                "nombre": "Juan",
+                "sueldobasico": 25000.0,
+                "antiguedad": 6,
+                "categoria": 22
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": "2525252525",
+                "apellido": "Albarricin",
+                "nombre": "Julian",
+                "sueldobasico": 25500.0,
+                "antiguedad": 15,
+                "area": "",
+                "tipo": "",
+                "carrera": "LCC",
+                "cargo": "Simple",
+                "catedra": "Algortimos"
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": "188888888",
+                "apellido": "Millan",
+                "nombre": "Ana",
+                "sueldobasico": 100000.0,
+                "antiguedad": 27,
+                "area": "Informatica",
+                "tipo": "IA",
+                "carrera": "",
+                "cargo": "",
+                "catedra": ""
+            }
+        }
+    ]
+}

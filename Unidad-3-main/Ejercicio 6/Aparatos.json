@@ -1,0 +1,61 @@
+{
+    "__class__": "Lista",
+    "aparatos": [
+        {
+            "__class__": "Televisor",
+            "__atributos__": {
+                "marca": "TCL",
+                "modelo": "ultracable",
+                "color": "nazul",
+                "pais": "Chile",
+                "precio": 60000.0,
+                "tipopantalla": "tip 3",
+                "pulgadas": "65",
+                "definicion": "FULL HD",
+                "conexion": false
+            }
+        },
+        {
+            "__class__": "Lavarropas",
+            "__atributos__": {
+                "marca": "Samsung",
+                "modelo": "Lavatron",
+                "color": "negro",
+                "pais": "arabia",
+                "precio": 4000.0,
+                "capacidad": 8,
+                "velocidad": "25",
+                "cantidadprogramas": "50",
+                "carga": "inferior"
+            }
+        },
+        {
+            "__class__": "Lavarropas",
+            "__atributos__": {
+                "marca": "Samsun",
+                "modelo": "Lava",
+                "color": "blanco",
+                "pais": "saudita",
+                "precio": 6000.0,
+                "capacidad": 8,
+                "velocidad": "25",
+                "cantidadprogramas": "50",
+                "carga": "superior"
+            }
+        },
+        {
+            "__class__": "Televisor",
+            "__atributos__": {
+                "marca": "philips",
+                "modelo": "ultracable",
+                "color": "negro",
+                "pais": "chile",
+                "precio": 50000.0,
+                "tipopantalla": "tp 1",
+                "pulgadas": "55",
+                "definicion": "HD",
+                "conexion": true
+            }
+        }
+    ]
+}
